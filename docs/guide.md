@@ -15,23 +15,6 @@ Improve [MoBrix-engine](https://github.com/CianciarusoCataldo/mobrix-engine) sys
 
 ---
 
-## Summary
-
-- [Getting started](#getting-started)
-  - [Installation](#installation)
-  - [Usage](#usage)
-- [API](#api)
-  - [Actions](#actions)
-  - [Selectors](#selectors)
-- [Integration with other plugins](#integration-with-other-plugins)
-- [Included libraries](#included-libraries)
-- [Authors](#authors)
-- [License](#license)
-
-<br>
-
----
-
 ## Getting started
 
 <br>
